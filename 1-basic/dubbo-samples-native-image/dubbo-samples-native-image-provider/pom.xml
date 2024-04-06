@@ -172,7 +172,7 @@
 
         <dependency>
             <groupId>org.apache.dubbo</groupId>
-            <artifactId>dubbo-config-spring6</artifactId>
+            <artifactId>dubbo-config-spring</artifactId>
             <version>${dubbo.version}</version>
         </dependency>
 
